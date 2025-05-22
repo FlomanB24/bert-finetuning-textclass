@@ -1,4 +1,4 @@
-Repositori ini merupakan **tugas kuliah** yang berisi implementasi **fine-tuning model BERT** menggunakan library `transformers` dari Hugging Face untuk tugas **klasifikasi teks** berbasis dataset custom (format CSV/TSV).
+Repositori ini berisi implementasi **fine-tuning model BERT** menggunakan library `transformers` dari Hugging Face untuk tugas **klasifikasi teks** berbasis dataset custom (format CSV/TSV).
 
 Fitur utama:
 
